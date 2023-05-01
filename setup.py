@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 
 NAME = 'noonmididmx'
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = "NOON Light MIDI to DMX daemon"
 AUTHOR = 'Frangitron'
 AUTHOR_EMAIL = 'contact@frangitron.com'

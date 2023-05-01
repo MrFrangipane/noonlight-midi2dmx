@@ -3,7 +3,7 @@ import pygame.midi
 from DMXEnttecPro import Controller
 
 
-_MIDI_EVENT_PACK_SIZE = 10
+_MIDI_EVENT_PACK_SIZE = 1
 
 
 class NoonMidiDmx:
