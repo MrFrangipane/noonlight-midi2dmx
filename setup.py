@@ -3,8 +3,8 @@ from codecs import open
 from setuptools import setup, find_packages
 
 
-NAME = 'noonmidismx'
-VERSION = '0.0.1'
+NAME = 'noonmididmx'
+VERSION = '0.0.2'
 DESCRIPTION = "NOON Light MIDI to DMX daemon"
 AUTHOR = 'Frangitron'
 AUTHOR_EMAIL = 'contact@frangitron.com'
